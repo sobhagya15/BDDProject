@@ -8,5 +8,5 @@ public class LetsSee {
 	  System.out.println("hello anil");
 	  System.out.println("hello kumar");
 
-	  System.out.println("hello kumarii");
+	  System.out.println("hello kumari");
 }}
