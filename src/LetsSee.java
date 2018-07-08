@@ -7,6 +7,7 @@ public class LetsSee {
 
 	  System.out.println("hello sobhagya");
 	  System.out.println("hello anil");
+
      }
 }
 
@@ -14,4 +15,9 @@ public class LetsSee {
 	  System.out.println("Rock on");
   }
 }
+
+	  System.out.println("hello kumar");
+
+	  System.out.println("hello kumari");
+}}
 
